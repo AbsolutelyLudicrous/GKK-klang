@@ -1,7 +1,5 @@
 # GKK/klang
 
-# TL;DR
-
 GKK/klang is an open source scripting language aimed at replacing ModuleManager's part reconfigurations with a cross between
 regex and SQL.  Note that GKK/klang is still very much in the design phase of its life, and is not supposed to be finished yet.
 
