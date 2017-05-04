@@ -1,3 +1,7 @@
 !kode start
-
+	file	/path/to/gamedata/
+	module	/name/of/module/
+	
+	//operations
+	
 !kode end
