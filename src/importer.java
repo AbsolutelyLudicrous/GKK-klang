@@ -12,14 +12,7 @@ public class importer implements importerNeededMethods{
 				//when the importer is instatiated, it reads the path to the GameData directory from the kode
 				try {
 						gamedata = Paths.get("/path/to/gamedata/");
-						
-						//get the list of files in the gamedata directory
-						//later, we'll read from the kode to see what we need to modify
-						
-						File[] files = gamedata.toFile().listFiles();
-						for(File f : files){
-							
-						}
+						//we'll need a way to get that, eventually
 				} catch (Exception e) {
 						// TODO Auto-generated catch block
 						e.printStackTrace();

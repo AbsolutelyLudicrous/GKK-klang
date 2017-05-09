@@ -1,7 +1,10 @@
 !kode start
-	file	/path/to/gamedata/
-	module	/name/of/module/
+	gamedata in /path/to/gamedata/	//i'm taking the easy way out here, and am having the user input their own path
 	
-	//operations
+	modify $MODULE in $FILE{
+		$VARIABLE = $NEWVALUE
+		//or
+		$VARIABLE = (get $VARIABLE +-/* $NEWVALUE)
+	}
 	
 !kode end
