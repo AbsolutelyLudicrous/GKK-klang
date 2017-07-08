@@ -1,3 +1,5 @@
+#Fair warning, I'm pretty much abandoning this project.  Sorry nerds.  I'll rewrite it in bash 'later'.
+
 # GKK/klang
 
 GKK/klang is an open source scripting language aimed at replacing ModuleManager's part reconfigurations with a cross between
